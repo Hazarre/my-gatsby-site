@@ -1,7 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `myGatsbySite`,
-    siteUrl: `https://www.yourdomain.tld`,
+    title: "Henry Li-Heng Chang's Home Page",
   },
-  plugins: [],
-}
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+    "gatsby-plugin-mdx",
+    {
+      resolve: "gatsby-source-filesystem", 
+      options: {
+        name: `blog`,
+        path: `${__dirname}/blog`,
+      }
+    }
+  ],
+};

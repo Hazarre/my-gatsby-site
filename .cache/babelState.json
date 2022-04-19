@@ -7,6 +7,16 @@
           "options": {}
         },
         {
+          "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "/home/henlibo/GitHub/my-gatsby-site/.cache/caches/gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "options": {}
+        },
+        {
           "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
@@ -39,6 +49,16 @@
       "plugins": [
         {
           "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "/home/henlibo/GitHub/my-gatsby-site/.cache/caches/gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
@@ -77,6 +97,16 @@
           "options": {}
         },
         {
+          "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "/home/henlibo/GitHub/my-gatsby-site/.cache/caches/gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "options": {}
+        },
+        {
           "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
@@ -109,6 +139,16 @@
       "plugins": [
         {
           "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "/home/henlibo/GitHub/my-gatsby-site/.cache/caches/gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "/home/henlibo/GitHub/my-gatsby-site/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {

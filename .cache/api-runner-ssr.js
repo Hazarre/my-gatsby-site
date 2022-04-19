@@ -1,4 +1,12 @@
-var plugins = []
+var plugins = [{
+      name: 'gatsby-plugin-image',
+      plugin: require('/home/henlibo/GitHub/my-gatsby-site/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
+      options: {"plugins":[]},
+    },{
+      name: 'gatsby-plugin-mdx',
+      plugin: require('/home/henlibo/GitHub/my-gatsby-site/node_modules/gatsby-plugin-mdx/gatsby-ssr.js'),
+      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"/home/henlibo/GitHub/my-gatsby-site","commonmark":false},
+    }]
 /* global plugins */
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

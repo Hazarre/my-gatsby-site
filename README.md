@@ -2,11 +2,23 @@
 
 ## This is mysite 
 
-
-
 ### About this site 
 Built with Gatsby, 
 
+### Plugins used 
+- gatsby-plugin-mdx for rendering markdown
+- gatsby-source-filesystem for pulling files from computer 
+
+
+### Consider the plugings 
+- gatsby-remark-images
+- gatsby-remark-prismjs
+- gatsby-remark-autolink-headers
+
+
+
+### Handy Tips for the future 
+Use ```useStaticQuery()``` to pull data into a building-block component. use page query to pull data into a page.  
 
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
